@@ -1,0 +1,12 @@
+*.pt
+__pycache__/
+*.pyc
+.env
+venv/
+node_modules/
+.DS_Store
+videos/
+outputs/
+*.mp4
+*.avi
+*.mkv

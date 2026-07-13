@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+ultralytics
+opencv-python
+python-multipart
+reportlab
+jinja2
+aiofiles
+imageio-ffmpeg
